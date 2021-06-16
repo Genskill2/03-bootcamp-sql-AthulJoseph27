@@ -3,7 +3,7 @@ VALUES
 ('PHI','INDIA'),
 ('Harper','USA'),
 ('GCP','USA'),
-('Avery','USA'),
+('Atomic Habits','USA'),
 ('Del Rey','UK'),
 ('Vintage','UK');
 
