@@ -28,7 +28,7 @@ VALUES
 ('Cryptonomicon',2),
 ('Deep Work',3),
 ('Atomic Habits',4),
-('The City AND The City',5),
+('The City and The City',5),
 ('The Great War for Civilisation',6);
 
 INSERT INTO books_subjects(book, subject)
