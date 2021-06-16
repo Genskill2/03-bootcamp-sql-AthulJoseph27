@@ -58,9 +58,9 @@ SELECT books.id,subjects.id FROM books,subjects WHERE books.title='Atomic Habits
 UNION
 SELECT books.id,subjects.id FROM books,subjects WHERE books.title='Atomic Habits' AND subjects.name='Productivity'
 UNION
-SELECT books.id,subjects.id FROM books,subjects WHERE books.title='The City AND The City' AND subjects.name='Science Fiction'
+SELECT books.id,subjects.id FROM books,subjects WHERE books.title='The City and The City' AND subjects.name='Science Fiction'
 UNION
-SELECT books.id,subjects.id FROM books,subjects WHERE books.title='The City AND The City' AND subjects.name='Politics'
+SELECT books.id,subjects.id FROM books,subjects WHERE books.title='The City and The City' AND subjects.name='Politics'
 UNION
 SELECT books.id,subjects.id FROM books,subjects WHERE books.title='The Great War for Civilisation' AND subjects.name='History'
 UNION
